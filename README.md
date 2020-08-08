@@ -1,4 +1,4 @@
-# jpstock_scraper
+# jpstock-scraper
 [株式投資メモ](https://kabuoji3.com)から日本の株式情報をスクレイピングで取得するGoプログラム
 
 ## Config
